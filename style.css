@@ -1,6 +1,59 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
+:root {
+  font-size: 62.5%;
+}
+
+html,
+body,
+input {
+  font-family: "Mulish", sans-serif;
+}
+
+body {
+  font-size: 1.6rem;
+}
+
+.container {
+  display: grid;
+  place-items: center;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 3.2rem;
+  background: #F9F4FB;
+}
+
+header img {
+  width: 36rem;
+  height: 37rem;
+}
+
+h1 {
+  color: #b52184;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 900;
+}
+
+h2 {
+  color: #312d64;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+header a img {
+  width: 5.8rem;
+  height: 10rem;
+  margin: 3.5rem auto 9.3rem;
+}
