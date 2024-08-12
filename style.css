@@ -56,6 +56,8 @@ h2 {
 
 header a img {
   margin: 3.5rem auto 9.3rem;
+  max-width: 4.3rem;
+  display: flex;
 }
 
 main {
@@ -66,13 +68,13 @@ main {
   background: linear-gradient(96deg, #343193 0%, #302c63 99.68%);
 }
 
-article {
+.card {
   border-radius: 2rem;
   background: #fff;
   padding: 4.5rem;
 }
 
-article img {
+.card img {
   margin-bottom: 3rem;
 }
 
@@ -163,4 +165,49 @@ footer {
   color: #fff;
   font-size: 1.9rem;
   font-weight: 600;
+}
+
+@media (min-width: 1024px) {
+  .container {
+   max-width: 100%;
+   max-width: 144rem;
+  }
+
+  header {
+    flex-direction: row-reverse;
+    gap: 2.8rem;
+  }
+
+  header img {
+    max-width: 71rem;
+    margin-bottom: 10rem;
+  }
+
+  h1 {
+    font-size: 5.8rem;
+  }
+
+  h2 {
+    font-size: 3.2rem;
+    margin-bottom: 17.9rem;
+  }
+
+  header a img {
+    margin: 0;
+    justify-self: flex-end;
+ }
+  
+  main {
+    flex-direction: row;
+  }
+
+  form {
+    background: url(./assets/Stars.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+  }
+
+  .input-wrapper {
+    max-width: 59rem;
+  }
 }
