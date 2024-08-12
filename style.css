@@ -12,12 +12,14 @@
 
 html,
 body,
-input {
+input,
+textarea,
+button {
   font-family: "Mulish", sans-serif;
+  font-size: 1.6rem;
 }
 
 body {
-  font-size: 1.6rem;
   background: #f9f4fb;
 }
 
@@ -84,4 +86,68 @@ h3 {
 p {
   color: #312d64;
   font-weight: 600;
+}
+
+legend {
+  color: #b52184;
+  font-size: 3.2rem;
+  font-weight: 900;
+  margin-bottom: 4.3rem;
+}
+
+form {
+  padding: 7.8rem 3.9rem 6.5rem 4rem;
+}
+
+fieldset {
+  display: flex;
+  flex-direction: column;
+  gap: 2.4rem;
+  border: none;
+}
+
+.input-wrapper input,
+textarea {
+  border-radius: 16px;
+  border: 1.5px solid #312d64;
+  display: flex;
+  width: 100%;
+  padding: 12px 16px 12px 14px;
+  background: #f9f4fb;
+}
+
+.input-wrapper #user {
+  background-image: url(./assets/person.svg);
+  background-repeat: no-repeat;
+  background-position: 1rem center;
+  padding-left: 4rem;
+}
+
+.input-wrapper #user-email {
+  background-image: url(./assets/@.svg);
+  background-repeat: no-repeat;
+  background-position: 1rem center;
+  padding-left: 4rem;
+}
+
+.input-wrapper textarea {
+  padding: 1.2rem 1.6rem 1.6rem;
+  height: 9.8rem;
+}
+
+::placeholder {
+  color: #312d64;
+  font-weight: 600;
+}
+
+#button {
+  width: 16rem;
+  height: 4.5rem;
+  color: #fff;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 2.4rem;
+  border: 0;
+  border-radius: 1.6rem;
+  background: linear-gradient(96deg, #343193 0%, #302c63 99.68%);
 }
