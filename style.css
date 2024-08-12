@@ -58,7 +58,7 @@ header a img {
   margin: 3.5rem auto 9.3rem;
 }
 
-.content {
+main {
   display: flex;
   padding: 5.2rem 4rem;
   gap: 4.9rem;
@@ -88,15 +88,15 @@ p {
   font-weight: 600;
 }
 
+form {
+  padding: 7.8rem 3.9rem 6.5rem 4rem;
+}
+
 legend {
   color: #b52184;
   font-size: 3.2rem;
   font-weight: 900;
   margin-bottom: 4.3rem;
-}
-
-form {
-  padding: 7.8rem 3.9rem 6.5rem 4rem;
 }
 
 fieldset {
@@ -140,7 +140,7 @@ textarea {
   font-weight: 600;
 }
 
-#button {
+.button #button {
   width: 16rem;
   height: 4.5rem;
   color: #fff;
