@@ -169,8 +169,7 @@ footer {
 
 @media (min-width: 1024px) {
   .container {
-   max-width: 100%;
-   max-width: 144rem;
+    max-width: 144rem;
   }
 
   header {
@@ -195,8 +194,8 @@ footer {
   header a img {
     margin: 0;
     justify-self: flex-end;
- }
-  
+  }
+
   main {
     flex-direction: row;
   }
