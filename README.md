@@ -12,7 +12,7 @@ Explore sem limites é um site para comercialização de cursos em plataforma 10
 </p>
 
 <p align="center">
-  <img alt="License" src="https://github.com/brunooliveira7/Course-website-responsive/blob/main/assets/Layout%20Course-website-responsive.png">
+  <img alt="License" src="">
 </p>
 
 <br>
