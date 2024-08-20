@@ -1,7 +1,7 @@
 <h1 align="center"> Explore sem limites </h1>
 
 <p align="center">
-Explore sem limites é um site para comercialização de cursos online. Site disponível em: https://brunooliveira7.github.io/Course-website-responsive/
+Explore sem limites é um site para comercialização de cursos em plataforma 100% online. Site disponível em: https://brunooliveira7.github.io/Course-website-responsive/
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ Projeto desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Explore sem limites é um site de curso online com formulário para que os usuários entrem em contato para inscrição.
+O Explore sem limites possui formulário para que os usuários entrem em contato e realizem sua inscrição no curso.
 
 ## 🔖 Layout
 
