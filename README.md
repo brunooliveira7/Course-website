@@ -1,4 +1,4 @@
-<h1 align="center"> Activity Planner </h1>
+<h1 align="center"> Explore sem limites </h1>
 
 <p align="center">
 Explore sem limites é um site para comercialização de cursos online. Site disponível em: https://brunooliveira7.github.io/Course-website-responsive/
@@ -12,7 +12,7 @@ Explore sem limites é um site para comercialização de cursos online. Site dis
 </p>
 
 <p align="center">
-  <img alt="License" src="https://github.com/brunooliveira7/Activity-Planner/blob/main/assets/Layout%20Activity%20Planner.png">
+  <img alt="License" src="https://github.com/brunooliveira7/Course-website-responsive/blob/main/assets/Layout%20Course-website-responsive.png">
 </p>
 
 <br>
