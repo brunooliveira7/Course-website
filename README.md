@@ -31,4 +31,9 @@ O Explore sem limites possui formulário para que os usuários entrem em contato
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/qLIOFBMYitkACau4tskCZK/Explore-sem-limites-(Copy)?node-id=158-680&m=dev). É necessário ter conta no [Figma](https://figma.com) para o acesso.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/qLIOFBMYitkACau4tskCZK/Explore-sem-limites-(Copy)?node-id=158-680&m=dev). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
